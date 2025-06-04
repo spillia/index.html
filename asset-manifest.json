@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spillia.index.html/static/css/main.ffe34ec7.css",
+    "main.js": "/spillia.index.html/static/js/main.564cc26f.js",
+    "index.html": "/spillia.index.html/index.html",
+    "main.ffe34ec7.css.map": "/spillia.index.html/static/css/main.ffe34ec7.css.map",
+    "main.564cc26f.js.map": "/spillia.index.html/static/js/main.564cc26f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe34ec7.css",
+    "static/js/main.564cc26f.js"
+  ]
+}
